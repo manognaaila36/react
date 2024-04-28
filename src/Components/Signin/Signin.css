@@ -1,0 +1,16 @@
+
+.signin{
+    display: grid;
+    grid-template-columns: 100px 800px;
+    gap: 750px;
+    
+}
+.in{
+    margin-top: 130px;
+}
+.drop{
+    height: 350px;
+    width: 400px;
+    margin: 100px;
+    margin-left: 250px;
+}

@@ -1,0 +1,28 @@
+  /* Donar.js */
+  .bgroo{
+    margin: 30px;
+    height: 500px;
+    width: 700px;
+    z-index: -3;
+  }
+  .y{
+    
+      color: red;
+      font-size: 40px;
+      font-weight: bold;
+      float: right;
+      z-index: -3;
+      margin-right: 300px;
+     margin-top: 60px;
+  }
+  .don{
+    color: black;
+    float: right;
+    z-index: -3;
+    margin-left: 800px;
+    margin-top: -420px;
+    font-size: 25px;
+  
+  }
+  
+ 

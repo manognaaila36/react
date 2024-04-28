@@ -1,0 +1,86 @@
+
+
+
+
+
+
+ 
+
+
+
+
+/* qr.js */
+
+.border{
+  border: solid red 3px;
+    border-bottom: dotted red 5px;
+    margin-top: 50px;
+}
+.qrimg{
+  height: 400px;
+  width: 400px;
+  display: inline-block;
+  z-index: -2;
+  
+}
+.bl1{
+  color: red;
+  font-size: 40px;
+  font-weight: bold;
+  
+}
+.he{
+  color: red;
+  font-size: 30px;
+  font-weight: bold;
+  float: right;
+  margin-right: 730px;
+  margin-top: 20px;
+  
+}
+.wel{
+  color: black;
+  float: right;
+  z-index: -2;
+  margin-left: 410px;
+  margin-top: -330px;
+  font-size: 25px;
+  
+}
+.jo{
+  color: red;
+  font-size: 30px;
+  font-weight: bold;
+  float: right;
+  z-index: -2;
+  margin-right: 740px;
+  margin-top: -200px;
+
+}
+.stay{
+  color: black;
+  float: right;
+  z-index: -2;
+  margin-left: 410px;
+  margin-top: -150px;
+  font-size: 25px;
+}
+
+.scan{
+  color: red;
+  font-size: 30px;
+  font-weight: bold;
+  float: right;
+  z-index: -2;
+  margin-right: 710px;
+  margin-top: -60px;
+
+}
+.line{
+  font-weight: bold;
+  color: red;
+  font-size: 30px;
+
+}
+
+

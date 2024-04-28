@@ -1,0 +1,68 @@
+div.scroll-container {
+    background-color: white;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+    height: 600px;
+    width: 1000px;
+    overflow-y: hidden;
+    margin-left: 0%;
+
+  }
+  
+  div.scroll-container img {
+    padding: 10px;
+  }
+
+
+
+.boo{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+  }
+.border{
+    border: solid red 5px;
+    border-bottom: dotted red 5px;
+    margin-top: 25px;
+}
+.gal{
+    margin: 30px;
+    margin-top: -20px;
+}
+
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .b{
+
+    height: 320px;
+  }
+  .b6{
+    height: 320px;
+  }
+  .b4{
+    height: 320px;
+  }
+  .b3{
+    height: 320px;
+  }
+
+ 
+  .v1{
+    margin-left: 180px;
+  }
+  .v2{
+    margin-right: 180px;
+    float: right;
+  }

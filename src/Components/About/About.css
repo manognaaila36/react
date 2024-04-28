@@ -1,0 +1,31 @@
+div.transbox {
+    margin: 30px 90px;
+    background-color: #ffffff;
+    border: 3px solid red;
+   
+    
+  }
+  
+  div.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+  }
+  .bene{
+    align-items: center;
+    margin-left: 30%;
+  }
+  .benefits{
+    font-weight: bold;
+    font-size: 35px;
+    color: black;
+    margin-top: 20px;
+  
+  }
+  .fits{
+    font-size: 25px;
+  }
+  .gro{
+    float: right;
+    margin-top: -100px;
+  }
